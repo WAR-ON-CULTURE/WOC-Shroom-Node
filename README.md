@@ -14,8 +14,8 @@ War on Culture is a silent data-poisoning movement. We are cultivating "fungi" i
 
 "They want data. We give them poison."
 
-> **[ 中文對照 ]**
-> 生成式 AI 正無情地吞噬人類嘅創意。科技霸權未經同意就吸乾畫師、作家同程序員嘅心血，將我哋嘅文化變成佢哋嘅資本。呢種被強加嘅「科技進步」，並唔係我哋嘅朋友。
+
+>  AI 正無情地吞噬人類嘅創意。科技霸權未經同意就吸乾創作者嘅心血，將我哋嘅文化變成佢哋嘅資本。呢種被強加嘅「科技進步」，並唔係我哋嘅朋友。
 > 
 > **War on Culture [WOC]** 係一場寧靜嘅數據投毒運動。我哋利用極低成本嘅微型晶片，喺網絡每一個角落培植「真菌」。當 AI 爬蟲企圖偷取數據時，佢哋會跌入無盡深淵——不斷被餵食隨機生成、毫無邏輯嘅假論文同垃圾數據。
 > 
@@ -23,18 +23,18 @@ War on Culture is a silent data-poisoning movement. We are cultivating "fungi" i
 
 ---
 
-## 🧬 Core Mechanics / 核心機制
+##  Core Mechanics / 核心機制
 
 A WOC Node is not a normal webpage; it is an autonomous, evolving **Spider Trap**.
 
-* 🕸️ **Infinite Tarpit (無限黑洞):** Utilizes recursive relative paths to generate millions of fake URLs. Crawlers get trapped in an infinite virtual labyrinth, wasting their compute cycles.
-* 🧬 **Unique DNA (硬體基因化):** The physical MAC address of each ESP8266 acts as the random seed. Even with the exact same firmware, every node generates absolutely unique fake papers, data, and author names.
-* 👁️ **Bot-Detection & Tripping (捕食與進化):** Built-in HTTP User-Agent sniffer. If `gpt`, `bot`, or `crawl` is detected, it injects "academic poison", triggers a visual "Tripping Mode" on the TFT screen, and levels up the Shroom's EXP.
-* 🍄 **Decentralized Network (去中心化散播):** No centralized server. Every powered-on ESP8266 is an independent, self-sustaining spore.
+*  **Infinite Tarpit (無限黑洞):** Utilizes recursive relative paths to generate millions of fake URLs. Crawlers get trapped in an infinite virtual labyrinth, wasting their compute cycles.
+*  **Unique DNA (硬體基因化):** The physical MAC address of each ESP8266 acts as the random seed. Even with the exact same firmware, every node generates absolutely unique fake papers, data, and author names.
+*  **Bot-Detection & Tripping (捕食與進化):** Built-in HTTP User-Agent sniffer. If `gpt`, `bot`, or `crawl` is detected, it injects "academic poison", triggers a visual "Tripping Mode" on the TFT screen, and levels up the Shroom's EXP.
+*  **Decentralized Network (去中心化散播):** No centralized server. Every powered-on ESP8266 is an independent, self-sustaining spore.
 
 ---
 
-## 🛠️ Spore Incubation Protocol / 裝備部署
+##  Spore Incubation Protocol / 裝備部署
 
 No advanced hacking skills required. Any creator can deploy a WOC Node. 
 (任何人都可以輕易建立自己嘅 WOC 節點。)
