@@ -22,6 +22,14 @@ War on Culture is a silent data-poisoning movement. We are cultivating "fungi" i
 > "佢哋要數據，我哋就畀毒藥。""
 
 ---
+---
+
+##  Live Mycelial Network (Active Bait) / 真菌網絡實時埋伏點
+Submit a Pull Request to add your active node here. (提交 PR 加你嘅網址入嚟，齊齊餵毒。)
+* [Node #001 (Host)]([https://choosy-appetite-widget.ngrok-free.dev/research/cluster_65/dataset_84807]) - *Status: Pulsing (正在搏動)*
+* *Pending Spore... (等待下一粒孢子)*
+
+---
 
 ##  Core Mechanics / 核心機制
 
